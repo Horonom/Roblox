@@ -180,6 +180,7 @@ img {
 .fopik{
     display: flex;
   align-items: flex-start;
+    flex-direction: row;
   justify-content: space-between;
 }
 .filip{
